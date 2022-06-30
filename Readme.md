@@ -41,3 +41,17 @@ git add .
 
 caso eu queira mandar arquivos com nomes específicos, posso utilizar:
 
+git add nome_arquivo nome_arquivo2 nome_arquivo3....
+
+
+Caso tenha algum "lixo" que aparece como disponível apra enviar ao Standing
+(para ver os arquivos usar o git status), basta dar o comando abaixo, para deletar o arquivo
+dos disponíveis para envio:
+
+git rm nome_arquivo
+
+A partir dos segundo envio, não precisa mais utilizar o comando -u para dar o push, ficará:
+
+git push origin main
+
+
