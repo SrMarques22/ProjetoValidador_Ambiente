@@ -26,4 +26,7 @@ git remote add origin link_do_diretorio_conforme_exemplo_acima.git - Com esse co
 transferir o conteúdo do seu diretório windows para o github 
 OBS: Nunca esqueça de abrir o git bash no diretório criado
 
+git push -u origin main - comando para enviar o arquivo de fato para o github, caso contrario ele não aparecerá no
+repositório do gitub
 
+por fim, aparecerá uma janela para autorizar o upload.
