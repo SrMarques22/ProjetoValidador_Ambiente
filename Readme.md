@@ -30,3 +30,14 @@ git push -u origin main - comando para enviar o arquivo de fato para o github, c
 repositório do gitub
 
 por fim, aparecerá uma janela para autorizar o upload.
+
+
+###gerenciamento###
+
+se eu quiser enviar todos os arquivos que tem disponível para a
+área de standing, posso usar o comando:
+
+git add .
+
+caso eu queira mandar arquivos com nomes específicos, posso utilizar:
+
